@@ -1,0 +1,7 @@
+  fun showDatePickerDialog() {
+    _uiState.value = _uiState.value.copy(showDatePickerDialog = true)
+  }
+
+  fun hideDatePickerDialog() {
+    _uiState.value = _uiState.value.copy(showDatePickerDialog = false)
+  }

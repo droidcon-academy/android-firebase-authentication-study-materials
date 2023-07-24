@@ -1,0 +1,2 @@
+<string name="ok">OK</string>
+<string name="birthday_label">Birthday</string>
