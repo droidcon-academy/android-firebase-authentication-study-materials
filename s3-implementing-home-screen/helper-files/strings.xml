@@ -1,0 +1,15 @@
+<resources>
+    <string name="profile_change_name_label">Change Name</string>
+    <string name="profile_update_your_display_name">Update your display name</string>
+    <string name="profile_new_name">New Name</string>
+    <string name="profile_update_label">Update</string>
+    <string name="profile_name_was_updated_successfully">Name was updated successfully</string>
+    <string name="profile_account_deleted_successfully">Account deleted successfully</string>
+    <string name="profile_email_sent_successfully">Email sent successfully</string>
+    <string name="profile_send_email_verification">Send Email Verification</string>
+    <string name="profile_delete_account">Delete account</string>
+    <string name="profile_sign_out">Sign Out</string>
+    <string name="profile_name_not_set">Not set</string>
+    <string name="profile_display_name_label">Display Name</string>
+    <string name="profile_userid_label">UserId</string>
+</resources>
