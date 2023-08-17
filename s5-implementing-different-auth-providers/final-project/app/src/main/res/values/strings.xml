@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Authenticate</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_up_welcome_label">Welcome To The Authenticate</string>
+    <string name="sign_up_fill_information_label">Please Fill the Following information</string>
+    <string name="email_address">Email Address</string>
+    <string name="error_valid_email_address">Please enter a valid email address</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="error_valid_password">Please enter a strong password, at least 8 characters including a number and a lowercase letter</string>
+    <string name="error_password_mismatch">Please enter the exact same password in both fields.</string>
+    <string name="login">Login</string>
+    <string name="phone_number_auth">Phone Number</string>
+    <string name="please_login_to_your_account_label">Please Login to your account</string>
+    <string name="forgot_password_label">Forgot password?</string>
+    <string name="send_email_reset_link_label">Type your email to send your a reset link</string>
+    <string name="cancel">Cancel</string>
+    <string name="send">Send</string>
+    <string name="please_wait_label">Please wait…</string>
+    <string name="welcome_back_label">Welcome Back!</string>
+    <string name="login_as_a_guest">Login as a Guest</string>
+    <string name="login_with_google">Login with Google</string>
+    <string name="login_with_facebook">Login with Facebook</string>
+    <string name="login_with_twitter">Login with Twitter</string>
+    <string name="profile_change_name_label">Change Name</string>
+    <string name="profile_update_your_display_name">Update your display name</string>
+    <string name="profile_new_name">New Name</string>
+    <string name="profile_update_label">Update</string>
+    <string name="profile_name_was_updated_successfully">Name was updated successfully</string>
+    <string name="profile_account_deleted_successfully">Account deleted successfully</string>
+    <string name="profile_email_sent_successfully">Email sent successfully</string>
+    <string name="profile_send_email_verification">Send Email Verification</string>
+    <string name="profile_delete_account">Delete account</string>
+    <string name="profile_sign_out">Sign Out</string>
+    <string name="profile_name_not_set">Not set</string>
+    <string name="profile_display_name_label">Display Name</string>
+    <string name="profile_userid_label">UserId</string>
+    <string name="ok">OK</string>
+    <string name="birthday_label">Birthday</string>
+
+
+
+    <string name="facebook_app_id">965127124575563</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">56789</string>
+
+    <string name="check_otp">Check OTP</string>
+    <string name="sorry_verification_failed_due_to">"Sorry, Verification failed due to "</string>
+    <string name="please_enter_a_correct_otp">Please enter a correct OTP.</string>
+    <string name="otp">OTP</string>
+    <string name="send_sms">Send SMS</string>
+    <string name="please_enter_a_valid_phone_number">Please Enter a valid phone number</string>
+    <string name="enter_your_phone_number">Enter your phone number</string>
+    <string name="verification_failed">Verification failed.. %1$s</string>
+    <string name="verification_successful">Verification successful..</string>
+    <string name="login_with_phone">Login with Phone</string>
+    <string name="please_provide_your_phone_number">Please Provide your phone number</string>
+    <string name="use_phone_authentication">Use Phone Authentication</string>
+
+</resources>
