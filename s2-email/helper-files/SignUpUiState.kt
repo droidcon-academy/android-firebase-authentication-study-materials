@@ -1,4 +1,4 @@
-package com.droidcon.authenticate.signup
+package com.droidcon.authenticate
 
 data class SignUpUiState(
   val email: String = "",

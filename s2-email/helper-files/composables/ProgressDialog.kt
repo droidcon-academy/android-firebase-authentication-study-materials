@@ -20,7 +20,7 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.window.Dialog
 import androidx.compose.ui.window.DialogProperties
 import com.droidcon.authenticate.R
-import com.droidcon.authenticate.theme.Secondary
+import com.droidcon.authenticate.ui.theme.Secondary
 
 @Preview
 @Composable

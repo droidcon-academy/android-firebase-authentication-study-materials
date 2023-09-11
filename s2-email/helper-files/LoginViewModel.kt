@@ -1,8 +1,9 @@
-package com.droidcon.authenticate.auth.login
+package com.droidcon.authenticate
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.droidcon.authenticate.auth.AuthUiState
+import com.droidcon.authenticate.AuthUiState
+import com.droidcon.authenticate.LoginUiState
 import com.droidcon.authenticate.data.AuthService
 import com.droidcon.authenticate.utils.FieldsValidationUtil
 import com.google.firebase.auth.FirebaseAuth

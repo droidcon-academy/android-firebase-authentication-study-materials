@@ -49,11 +49,11 @@ import androidx.compose.ui.unit.sp
 import androidx.compose.ui.window.Dialog
 import androidx.hilt.navigation.compose.hiltViewModel
 import com.droidcon.authenticate.auth.AuthUiState
-import com.droidcon.authenticate.R
-import com.droidcon.authenticate.ui.composables.BackButton
-import com.droidcon.authenticate.ui.composables.PasswordInputField
-import com.droidcon.authenticate.ui.composables.ProgressDialog
-import com.droidcon.authenticate.ui.composables.droidconColors
+import com.droidcon.authenticate.LoginViewModel
+import com.droidcon.authenticate.composables.BackButton
+import com.droidcon.authenticate.composables.PasswordInputField
+import com.droidcon.authenticate.composables.ProgressDialog
+import com.droidcon.authenticate.composables.droidconColors
 import com.droidcon.authenticate.ui.theme.Primary
 import com.droidcon.authenticate.ui.theme.PrimaryVariant
 import com.droidcon.authenticate.ui.theme.Secondary

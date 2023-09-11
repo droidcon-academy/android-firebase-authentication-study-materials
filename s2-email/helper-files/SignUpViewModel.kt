@@ -1,4 +1,4 @@
-package com.droidcon.authenticate.auth.signup
+package com.droidcon.authenticate
 
 import androidx.lifecycle.ViewModel
 import com.droidcon.authenticate.R

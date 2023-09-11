@@ -1,4 +1,4 @@
-package com.droidcon.authenticate.auth.signup
+package com.droidcon.authenticate
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
