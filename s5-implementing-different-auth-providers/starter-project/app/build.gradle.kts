@@ -65,6 +65,8 @@ dependencies {
     implementation(platform("com.google.firebase:firebase-bom:32.0.0"))
     implementation("com.google.firebase:firebase-auth-ktx")
     implementation("com.google.firebase:firebase-firestore-ktx")
+    implementation("com.google.android.gms:play-services-auth:20.6.0")
+    implementation("com.facebook.android:facebook-android-sdk:16.1.3")
 
     implementation("com.google.dagger:hilt-android:2.46.1")
     kapt("com.google.dagger:hilt-compiler:2.46.1")
@@ -76,7 +78,6 @@ dependencies {
     kaptTest("com.google.dagger:hilt-compiler:2.46.1")
 
     implementation("androidx.navigation:navigation-compose:2.6.0")
-
     implementation("androidx.hilt:hilt-navigation-compose:1.0.0")
 
     testImplementation("junit:junit:4.13.2")
