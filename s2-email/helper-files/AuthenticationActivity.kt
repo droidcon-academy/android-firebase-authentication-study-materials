@@ -7,8 +7,7 @@ import androidx.activity.compose.setContent
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
-import com.droidcon.authenticate.screen.ProfileActivity
-import com.droidcon.authenticate.screen.ui.theme.AuthenticateTheme
+import com.droidcon.authenticate.ui.theme.AuthenticateTheme
 import dagger.hilt.android.AndroidEntryPoint
 
 @AndroidEntryPoint

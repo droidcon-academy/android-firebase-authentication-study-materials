@@ -48,8 +48,6 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.compose.ui.window.Dialog
 import androidx.hilt.navigation.compose.hiltViewModel
-import com.droidcon.authenticate.auth.AuthUiState
-import com.droidcon.authenticate.LoginViewModel
 import com.droidcon.authenticate.composables.BackButton
 import com.droidcon.authenticate.composables.PasswordInputField
 import com.droidcon.authenticate.composables.ProgressDialog

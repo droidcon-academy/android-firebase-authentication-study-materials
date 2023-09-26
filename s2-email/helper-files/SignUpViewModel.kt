@@ -1,7 +1,6 @@
 package com.droidcon.authenticate
 
 import androidx.lifecycle.ViewModel
-import com.droidcon.authenticate.R
 import com.droidcon.authenticate.utils.FieldsValidationUtil
 import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.flow.MutableStateFlow

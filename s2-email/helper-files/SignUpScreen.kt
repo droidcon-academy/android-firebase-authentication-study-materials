@@ -35,7 +35,6 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.hilt.navigation.compose.hiltViewModel
-import com.droidcon.authenticate.R
 import com.droidcon.authenticate.composables.BackButton
 import com.droidcon.authenticate.composables.PasswordInputField
 import com.droidcon.authenticate.composables.ProgressDialog
