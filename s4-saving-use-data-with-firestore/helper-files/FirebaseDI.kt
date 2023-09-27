@@ -25,14 +25,14 @@ object FirebaseModule {
 
   @Singleton
   @Provides
-  fun provideFirebaseFirestore(): FirebaseFirestore {
-    return FirebaseFirestore.getInstance()
+  fun provideFirebaseAuthService(firebaseAuth: FirebaseAuth): AuthService {
+    return FirebaseAuthService(firebaseAuth)
   }
 
   @Singleton
   @Provides
-  fun provideFirebaseAuthService(firebaseAuth: FirebaseAuth): AuthService {
-    return FirebaseAuthService(firebaseAuth)
+  fun provideFirebaseFirestore(): FirebaseFirestore {
+    return FirebaseFirestore.getInstance()
   }
 
   @Singleton
