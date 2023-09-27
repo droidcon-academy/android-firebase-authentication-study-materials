@@ -48,7 +48,7 @@ import com.google.firebase.auth.PhoneAuthCredential
 import com.google.firebase.auth.PhoneAuthProvider
 
 @Composable
-fun PhoneAuth(
+fun PhoneAuthScreen(
   onBackClicked: () -> Unit = {},
   onPhoneAuthSuccess: () -> Unit = {},
   firebaseAuth: FirebaseAuth
